@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contact Long Haul
+title: Contact Karenina Arch
 ---
 
 <div id="contact">
