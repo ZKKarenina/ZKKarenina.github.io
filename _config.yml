@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Karenina Arch
+description: Site para divulgação de portfólio de web design e desenvolvedora front end
 
-url: https://long-haul.netlify.app
+url: https://zkkarenina.github.io/
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
 
@@ -14,21 +14,20 @@ plugins: [jekyll-paginate]
 paginate: 5
 
 navigation:
-  - title: Home
+  - title: Inicio
     url: /index.html
-  - title: About
+  - title: Sobre
     url: /about
-  - title: Contact
+  - title: Contato
     url: /contact
 
 social:
-  github: brianmaierjr
-  twitter: brianmaierjr
-  facebook: brianmaierjr
-  email: brimaidesigns@gmail.com
-  linkedin: brianmaierjr
+  github: ZKKarenina
+  twitter: karenina_arch
+  email: fleshpaulo@gmail.com
+  linkedin:
 
-google_analytics: "UA-58263416-1"
+google_analytics: ""
 
 disqus:
-    shortname: brianmaierjr
+    shortname: Karenina
