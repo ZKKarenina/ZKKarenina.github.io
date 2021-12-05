@@ -1,6 +1,6 @@
 ---
 layout: default
-title: About Long Haul
+title: Sobre Karenina Arch
 ---
 
 <div class="post">
